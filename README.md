@@ -16,8 +16,15 @@ Good hard tech blogs:
 * [Bruce Dawson](https://randomascii.wordpress.com/)
 * [Eli Bendersky](https://eli.thegreenplace.net)
 * [Julia Evans](https://jvns.ca/)
+* [Chris Olah](https://colah.github.io/) (Also see [Distill](https://distill.pub))
+* [Oppenbhaimer](https://oppenbhaimer.github.io) `</shameless-plug>`
 
 ## Specific Topics
+
+### Diffusion Models
+
+* [Understanding Diffusion Models: A Unified Perspective](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html), Calvin Luo
+* [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf), Jonathan Ho, Ajay Jain, Pieter Abbeel
 
 ### Operating Systems
 
