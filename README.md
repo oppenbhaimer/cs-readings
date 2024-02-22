@@ -6,6 +6,7 @@ Good hard tech blogs:
 
 * [Fabian Giesen](https://fgiesen.wordpress.com/) - Does almost everything systems 
 * [Nick Desaulniers](https://nickdesaulniers.github.io/) - Compilers
+* [Theia Vogel](https://vgel.me/posts/) - LLMs
 * [Chris Bloom](http://cbloomrants.blogspot.com/) - Compression
 * [Mukul Rathi](https://mukulrathi.com/blog/) - Bolt series of blogs 
 * [Fabien Sanglard](https://fabiensanglard.net/) - Graphics, Low-level programming
@@ -44,3 +45,4 @@ Good hard tech blogs:
 * [Michael Abrash's Black Book](https://www.jagregory.com/abrash-black-book/) - Bit old now but amazing to read
 * [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index/), Fabian Giesen
 * [Intro to Graphics](https://www.cs.cornell.edu/courses/cs4620/2018fa/) and [Interactive Graphics](https://www.cs.cornell.edu/courses/cs4620/2018fa/), Steve Marschner
+* [Learn WGPU](https://sotrh.github.io/learn-wgpu/) - Benjamin Hansen
